@@ -1,0 +1,48 @@
+title = "chitreshblog"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = "hugo-blog-awesome"
+
+[outputs]
+  home = [ "HTML", "RSS" ] # Generate RSS
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="myprojects"
+    name = 'My projects'
+    url = '/Projects/'
+    weight = 20
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 30
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 40
+
+[params]
+  sitename = "chitreshblog"
+  defaultColor = "dark"
+  description = "Personal blog of chitresh. Topics include technology, programming, and more."
+
+[params.author]
+  avatar = "img/avatar.jpg"
+  intro = "Chitresh"
+  name = "Chitresh"
+  description = "Personal Blog"
+

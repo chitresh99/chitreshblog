@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on chitreshblog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on chitreshblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 21:02:50 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
+      <pubDate>Sat, 20 Apr 2024 21:02:50 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      
+      <description>Hello World! Welcome to my first blog post on chitreshblog.
+Why did I start this ? To share what i am doing , basically i am doing new stuff like everyday so sharing on instagram everyday is such a drag plus a lot of people asked me why did I stop my last blog after my first post because It was too much of writing code but eh I found a simpler way,so expect new blogs</description>
+      
+    </item>
+    
+  </channel>
+</rss>
