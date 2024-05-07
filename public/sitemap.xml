@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-04-20T21:04:58+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-07T21:02:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/feeings/</loc>
+    <lastmod>2024-05-07T21:02:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-07T21:02:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-04-20T21:04:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/helloworld/</loc>
     <lastmod>2024-04-20T21:02:50+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/firstdesign/</loc>
-    <lastmod>2024-04-20T21:02:50+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-04-20T21:02:50+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
