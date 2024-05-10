@@ -25,6 +25,11 @@ theme = "hugo-blog-awesome"
     url = '/Projects/'
     weight = 20
   [[menu.main]]
+    pageRef="tech"
+    name = 'Tech'
+    url = '/Tech/'
+    weight = 20
+  [[menu.main]]
     pageRef="posts"
     name = 'Posts'
     url = '/posts/'
