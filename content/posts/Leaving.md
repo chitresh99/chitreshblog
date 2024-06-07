@@ -4,7 +4,7 @@ date = 2024-06-07T21:02:50+05:30
 draft = false
 +++
 
-![leaving](images/leaving.jpg)
+
 
 I feel we sometimes need to leave 
 
